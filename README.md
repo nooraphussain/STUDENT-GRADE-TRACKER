@@ -1,4 +1,4 @@
-### STUDENT-GRADE-TRACKER
+# TASK 2 -- STUDENT-GRADE-TRACKER
 
 Objective: Create a Python program to track and manage student grades, allowing for
 input of grades for different subjects or assignments, calculation of the average grade,
